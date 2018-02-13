@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<addon
+	id="webinterface.kratos"
+	version="1.0.0"
+	name="Kratos Web Interface"
+	provider-name="bailus">
+	<requires>
+		<import addon="xbmc.json" version="6.0.0"/>
+	</requires>
+	<extension point="xbmc.webinterface"/>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<source>https://github.com/bailus/Hax</source>
+
+		<summary lang="en">
+			Para backup xmls para transferir 
+		</summary>
+
+		<description lang="en">
+			Para backup xmls para transferir
+		</description>
+
+	</extension>
+</addon>
